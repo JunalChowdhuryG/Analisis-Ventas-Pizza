@@ -43,4 +43,4 @@ El an√°lisis de ventas de pizzas contiene datos completos de las ventas de un a√
 ---
 
 ## **Dashboard en Power BI**
-[Ver el documento]()
+[Ver el documento](https://github.com/JunalChowdhuryG/Analisis-Ventas-Pizza/blob/main/Reporte.pdf)
